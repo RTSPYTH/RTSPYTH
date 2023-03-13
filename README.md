@@ -14,18 +14,18 @@ I'm programming on Python and making web services on Django/Django REST Framewor
 
 My Stack:
 
-  Python
+  Python🐍
   
   Django/DRF
   
-  MySQL
+  MySQL💾
   
-  PostreSQL
+  PostreSQL💾
   
-  Postman
+  Postman👨‍🚀
   
   Git
   
   WebScraping
   
-  TelegramBots
+  TelegramBot📱
