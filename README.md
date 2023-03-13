@@ -17,7 +17,7 @@ My Stack:
   Python🐍
   
   Django/DRF
-  
+
   MySQL💾
   
   PostreSQL💾
