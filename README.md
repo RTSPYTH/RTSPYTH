@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**RTSPYTH/RTSPYTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile, where u can find my many works.
 
-Here are some ideas to get you started:
+I'm programming on Python and making web services on Django/Django REST Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Stack:
+
+  Python
+  
+  Django/DRF
+  
+  MySQL
+  
+  PostreSQL
+  
+  Postman
+  
+  Git
+  
+  WebScraping
+  
+  TelegramBots
