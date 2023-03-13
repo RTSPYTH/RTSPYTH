@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Welcome to my profile, where u can find my works.
+Welcome to my profile, where you can find my works.
+
+Click here to see my Online-Shop🛒💸➡
+http://rtspyth.pythonanywhere.com
+
+You can CRUD(Create Read Update Delete) products👟 and events🈹% (if you sign in)
 
 I'm programming on Python and making web services on Django/Django REST Framework.
 
